@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitCrawler</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slash_separator">\ /\ </string>
+    <string name="commits">\ commits</string>
+</resources>
